@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://dangsan-info-note.hongdae-massage-review.xyz/sitemap.xml
+Sitemap: https://dangsan-info-note.hongdae-massage-review.xyz/sitemap-pages.xml
